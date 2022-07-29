@@ -1,0 +1,12 @@
+.four04{
+display:block;
+margin: 60px auto;
+width:100%;
+object-fit:cover;
+height:calc(80vh - 40px);
+}
+
+.four04p{
+    text-align: center;
+    text-transform: capitalize;
+}
